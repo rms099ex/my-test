@@ -1,0 +1,23 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd        251G   14G  225G   6% /
+tmpfs            13G  400M   13G   4% /mnt/wsl
+/dev/sdc        251G   14G  225G   6% /mnt/wsl/docker-desktop-data/isocache
+none             13G   12K   13G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdb        251G  130M  239G   1% /mnt/wsl/docker-desktop/docker-desktop-proxy
+/dev/loop0      396M  396M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tools           104G   87G   18G  84% /init
+none             13G     0   13G   0% /dev
+none             13G  8.0K   13G   1% /run
+none             13G     0   13G   0% /run/lock
+none             13G     0   13G   0% /run/shm
+none             13G     0   13G   0% /run/user
+tmpfs            13G     0   13G   0% /sys/fs/cgroup
+C:\             104G   87G   18G  84% /mnt/c
+D:\             2.0T  1.7T  341G  84% /mnt/d
+F:\             2.8T  1.8T  1.1T  63% /mnt/f
+G:\             1.9T  1.6T  293G  85% /mnt/g
+H:\             3.5T  3.1T  430G  88% /mnt/h
+I:\             1.9T  1.7T  139G  93% /mnt/i
+J:\             932G  111G  821G  12% /mnt/j
+K:\             1.9T  1.7T  187G  91% /mnt/k
+L:\             1.9T  1.7T  197G  90% /mnt/l
